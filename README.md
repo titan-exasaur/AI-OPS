@@ -1,6 +1,6 @@
 # AIops Learning Journey 🚀
 
-![GitHub Repo Size](https://img.shields.io/https://github.com/titan-exasaur/AI-OPS?style=flat-square)
+![GitHub Repo Size](https://img.shields.io/github.com/titan-exasaur/AI-OPS?style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/titan-exasaur/AI-OPS?style=flat-square)
 ![GitHub Forks](https://img.shields.io/github/forks/titan-exasaur/AI-OPS?style=flat-square)
 
